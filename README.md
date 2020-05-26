@@ -1,5 +1,8 @@
 User ------< Picking >--------- Mushroom
 
+Mushroom has many pickings
+Mushroom has many users through pickings
+
 Module One Final Project
 ========================
 
