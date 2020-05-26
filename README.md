@@ -1,5 +1,11 @@
 User ------< Picking >--------- Mushroom
 
+user has many pickings
+user has many mushrooms through pickings
+
+picking belongs to mushroom
+picking belongs to user
+
 Module One Final Project
 ========================
 
