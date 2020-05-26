@@ -3,6 +3,13 @@ User ------< Picking >--------- Mushroom
 Mushroom has many pickings
 Mushroom has many users through pickings
 
+user has many pickings
+user has many mushrooms through pickings
+
+picking belongs to mushroom
+picking belongs to user
+
+
 Module One Final Project
 ========================
 
